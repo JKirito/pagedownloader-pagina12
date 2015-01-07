@@ -6,7 +6,7 @@ public class DescargarNotasEconomia {
 
 	/**
 	 * Ya tengo descargadas las "Tapas" de la sección Economía.
-	 * Ahora descargo cada nota html de cada "Tapa" y las guardo como html.
+	 * Ahora descargo cada nota html de cada "Tapa" y las guardo como html
 	 */
 	public static void main(String[] args) {
 		String pathOrigen = "/home/pruebahadoop/Documentos/DescargasPeriodicos/Original/Pagina12/Tapas/tmp/";
